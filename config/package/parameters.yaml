@@ -1,0 +1,8 @@
+parameters:
+    locale: en
+    app_locales: en|fr|it
+
+    # Default Assets
+    assets_default_agent_profile_image_path: 'bundles/eshop/images/uv-avatar-batman.png'
+    assets_default_customer_profile_image_path: 'bundles/eshop/images/uv-avatar-ironman.png'
+    assets_default_helpdesk_profile_image_path: 'bundles/eshop/images/uv-avatar-uvdesk.png'
