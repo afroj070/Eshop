@@ -12,8 +12,8 @@
         "symfony/expression-language": "^3.4",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.4",
-        "eshop/backend": "dev-master",
-        "eshop/frontend": "dev-master",
+        "schoolManagement/core": "dev-master",
+        "schoolManagement/administrator": "dev-master",
         "symfony/monolog-bundle": "^3.1.0",
         "symfony/yaml": "^3.4",
         "symfony/serializer": "^3.4"
@@ -26,11 +26,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/afroj070/Backend.git"
+            "url": "https://github.com/afroj070/Core.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/afroj070/Frontend.git"
+            "url": "https://github.com/afroj070/Administrator.git"
         }
        
     ],
