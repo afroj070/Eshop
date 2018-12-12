@@ -1,0 +1,2 @@
+administrator:
+    resource: Firoj\SchoolManagement\Administrator\Resources\config\routing.yaml
