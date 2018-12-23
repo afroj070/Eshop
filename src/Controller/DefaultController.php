@@ -1,12 +1,13 @@
 <?php 
 namespace App\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Symfony\Component\HttpFoundation\Request;
 
 class DefaultController extends Controller
 {
     public function index()
     {
-        dump("default controller from app");die;
+        return $this->render('index.html.twig');
     }
 }
 

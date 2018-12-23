@@ -1,7 +1,3 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
-
-Dashboard:
-    path: /
-    controller: Firoj\SchoolManagement\Administrator\Controller\TestController::index
+index:
+   path: /
+   controller: App\Controller\DefaultController::index

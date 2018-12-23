@@ -10,4 +10,5 @@ return [
     Firoj\SchoolManagement\Administrator\AdministratorBundle::class => ['dev' => true],
     Firoj\SchoolManagement\Core\CoreBundle::class => ['dev' => true],
     Symfony\Bundle\TwigBundle\TwigBundle::class => ['all' => true],
+    Symfony\Bundle\MakerBundle\MakerBundle::class => ['dev' => true],
 ];
